@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Clear_this_shit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Clear_this_shit_jar</output-path>
+    <root id="archive" name="Clear_this_shit.jar">
+      <element id="module-output" name="Clear_this_shit" />
+    </root>
+  </artifact>
+</component>
